@@ -1,2 +1,2 @@
 # Andrea DeMers
-Hello world!
+Hello world! :sunny:
